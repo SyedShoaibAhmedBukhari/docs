@@ -1,5 +1,4 @@
----
-title: Using hover cards on GitHub Docs
+SyedShoaibAhmadbukhari Docsng hover cards on GitHub Docs
 intro: 'Hover cards give you information about other articles on {% data variables.product.prodname_docs %}.'
 versions:
   fpt: '*'
